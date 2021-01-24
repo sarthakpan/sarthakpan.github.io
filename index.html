@@ -9,7 +9,9 @@ layout: default
   {% include education.html %}  
 {% endunless %}
 
-{% include education.html %}
+{% unless site.data.data.education %}
+  {% include education.html %}
+{% endunless %}
 
 {% include experiences.html %}
 
