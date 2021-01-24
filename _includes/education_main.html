@@ -1,21 +1,5 @@
 {% assign education = site.data.data.education %}
 {% if education %}
-  {% if site.data.data.sidebar.education %}
-  <div class="education-container container-block">
-
-    <h2 class="container-block-title">
-      Education
-    </h2>
-
-    {% for graduation in education %}
-    <div class="item">
-      <h4 class="degree">{{ graduation.degree }}</h4>
-      <h5 class="meta">{{ graduation.Score }}</h5>
-    </div><!--//item-->
-    {% endfor %}
-
-  </div><!--//education-container-->
-  {% else %}
   <section class="section educations-section">
 
     <h2 class="section-title">
@@ -49,5 +33,4 @@
     {% endfor %}
 
   </section><!--//section-->
-  {% endif %}
 {% endif %}
