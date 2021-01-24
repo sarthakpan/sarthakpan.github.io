@@ -58,8 +58,8 @@ education:
     - degree: Master of Computer Applications (MCA)
       university: Jadavpur University
       time: 2018 - 2021 (Ongoing)
+      Score: 8.16 DGPA
       details: |
-        Score: 8.16 DGPA
         Course Highlights:
           - Artificial Intelligence
           - Machine Learning
@@ -71,8 +71,8 @@ education:
     - degree: Bachelor of Computer Applications (BCA)
       university: The Heritage Academy (MAKAUT)
       time: 2015 - 2018
+      Score: 8.76 DGPA
       details: |
-        Score: 8.76 DGPA
         Course Highlights:
           - Values and Ethics
           - UNIX OS
@@ -84,8 +84,8 @@ education:
     - degree: Higher Secondary Examination
       university: Tagore Academy (ISC)
       time: 2013 - 2015
-      details: |
-        Score: 78.2%
+      Score: 78.2%
+      details: |  
         Subject Highlights:
           - English
           - Mathematics
@@ -95,8 +95,8 @@ education:
     - degree: Secondary Examination
       university: Tagore Academy (ISC)
       time: 2000 - 2013
+      Score: 84.5%
       details: |
-        Score: 84.5%
         Subject Highlights:
           - English
           - Hindi
