@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Sarthak Pan Resume
-url: 'https://sarthakpan.github.io/cv/'
+url: 'https://sarthakpan.github.io/'
 baseurl: '/cv' #change it according to your repository name
 description: Sarthak Pan resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
