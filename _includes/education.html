@@ -10,15 +10,12 @@
     {% for graduation in education %}
     <div class="item">
       <h4 class="degree">{{ graduation.degree }}</h4>
-      <h5 class="meta">{{ graduation.university }}</h5>
-      <!-- <div class="time">{{ graduation.time }}</div> -->
       <h5 class="meta">{{ graduation.Score }}</h5>
-      <!-- <div class="details">{{ graduation.details | markdownify }}</div> -->
     </div><!--//item-->
     {% endfor %}
 
   </div><!--//education-container-->
-  {% else %}
+  <!-- {% else %} -->
   <section class="section educations-section">
 
     <h2 class="section-title">
@@ -52,5 +49,5 @@
     {% endfor %}
 
   </section><!--//section-->
-  {% endif %}
+  <!-- {% endif %} -->
 {% endif %}
