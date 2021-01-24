@@ -1,0 +1,200 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Sarthak Pan
+    tagline: ML/AI Developer
+    avatar: sarthakpan.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: sarthakpan@gmail.com
+    phone: 799 115 8546
+    website:  #do not add http://
+    linkedin: sarthakpan
+    github: sarthakpan
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@Sarthakpan96'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Bengali
+        level: Native
+
+    interests:
+      - item: Photography
+        link:
+
+      - item: Guitar
+        link:
+
+      - item: Travelling
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      -	Highly ambitious to achieve goals with dedication and confident
+      -	Presentation Designing & Exceptional presentation skills
+      -	Ability to cope up with different situations smartly and calmly
+      -	Deep understanding regarding software development environments and considerable talent in achieving critical solutions
+      -	Comprehensive knowledge of primary development languages for instance C, C++, JAVA, Python, JavaScript, NodeJS, Angular, HTML, and SQL.
+
+education:
+    - degree: Master of Computer Applications (MCA)
+      university: Jadavpur University
+      time: 2018 - 2021 (Ongoing)
+      details: |
+        Score: 8.16 DGPA
+        Course Highlights:
+          - Artificial Intelligence
+          - Machine Learning
+          - Algorithms
+          - Compiler Design
+          - Automata
+          - Management Information System (MIS)
+          - Operating System
+    - degree: Bachelor of Computer Applications (BCA)
+      university: The Heritage Academy (MAKAUT)
+      time: 2015 - 2018
+      details: |
+        Score: 8.76 DGPA
+        Course Highlights:
+          - Values and Ethics
+          - UNIX OS
+          - Computer Architecture
+          - Software Engineering
+          - Graph Theory
+          - Java, C/C++
+          - Database Management System (DBMS)
+    - degree: Higher Secondary Examination
+      university: Tagore Academy (ISC)
+      time: 2013 - 2015
+      details: |
+        Score: 78.2%
+        Subject Highlights:
+          - English
+          - Mathematics
+          - Computer Applications
+          - Physics
+          - Chemistry
+    - degree: Secondary Examination
+      university: Tagore Academy (ISC)
+      time: 2000 - 2013
+      details: |
+        Score: 84.5%
+        Subject Highlights:
+          - English
+          - Hindi
+          - Mathematics
+          - Computer Applications
+          - Physics
+          - Biology
+          - Chemistry
+          - History and Geography
+experiences:
+    - role: Intern Developer
+      time: January,2020 - November,2020
+      company: GnosisLab
+      location: Kolkata, India
+      details: |
+        - Basics of Angular and NodeJS
+        - HOG Feature Descriptor
+        - SVM Character Recognization (OCR)
+        - CRNN Character Recognization (OCR)
+    - role: Security Trainee
+      time: March,2017 - November,2017
+      company: Info Security Solution
+      location: Kolkata, India
+      details: |
+        - Seminar in multiple institutes
+    - role: Video Lecture Creator, Freelancer
+      time: March,2016 - September,2016
+      company: Learnabcxyz.com
+      location: Kolkata, India
+      details: |
+        - Video Editing
+        - Video Recording
+        - Video Voice-Over
+        - Exercise of Course
+        - Course Study Material
+        
+# projects:
+    # title: Projects
+    # intro: >
+      # You can list your side projects or open source libraries in this
+      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # assignments:
+      # - title: Velocity
+        # link: "#hook"
+        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+# publications:
+    # title: Publications
+    # intro: |
+      # You can list your publications in this section. Lorem ipsum dolor sit
+      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      # bibendum fringilla a eu lectus.
+    # papers:
+      # - title: The Art of Computer Programming
+        # link: "#"
+        # authors: Donald E. Knuth
+        # conference: Addison-Wesley, 1968
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Machine Learning & Deep Learning
+        level: 70%
+        
+      - name: Image Processing
+        level: 55%
+
+      - name: Java
+        level: 65%
+
+      - name: C/C++
+        level: 70%
+
+      - name: HTML5, CSS & JS
+        level: 70%
+
+      - name: Graphs Design
+        level: 75%
+
+      - name: Cyber Security
+        level: 70%
+        
+      - name: Creative
+        level: 70%
+      
+      - name: Team Work
+        level: 80%
+        
+      - name: Leadership
+        level: 70%
+        
+      - name: Communication
+        level: 85%
+        
+footer: >
+    Designed with <i class="fas fa-heart"></i> by Sarthak Pan</a>
