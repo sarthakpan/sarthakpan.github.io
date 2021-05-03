@@ -112,6 +112,8 @@ experiences:
       company: GnosisLab
       location: Kolkata, India
       details: |
+        - Wall and Floor Detections (DeepLabs)
+        - Flask API deployed in AWS via Docker
         - Basics of Angular and NodeJS
         - HOG Feature Descriptor
         - SVM Character Recognization (OCR)
