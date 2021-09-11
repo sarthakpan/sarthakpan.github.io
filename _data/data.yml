@@ -57,8 +57,8 @@ career-profile:
 education:
     - degree: Master of Computer Applications (MCA)
       university: Jadavpur University
-      time: 2018 - 2021 (Ongoing)
-      Score: 8.16 DGPA
+      time: 2018 - 2021
+      Score: 8.81 DGPA
       details: |
         Course Highlights:
           - Artificial Intelligence
@@ -107,6 +107,12 @@ education:
           - Chemistry
           - History and Geography
 experiences:
+    - role: Systems Engineer
+      time: June,2021 - .
+      company: Tata Consultancy Service
+      location: Kolkata, India
+      details: |
+        - Portal Development with AppSheet
     - role: Intern Developer
       time: January,2020 - November,2020
       company: GnosisLab
@@ -135,12 +141,12 @@ experiences:
         - Exercise of Course
         - Course Study Material
         
-# projects:
-    # title: Projects
-    # intro: >
-      # You can list your side projects or open source libraries in this
-      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    title: Automatic Minutes Generation
+    intro: >
+      # Automatic Generation of Minutes of Meeting from a meeting transcript
+      # Project is a part of shared task "Automin"
+      # Rule-Based processing and NLP tools are used in this project to complete the objective of tasks
     # assignments:
       # - title: Velocity
         # link: "#hook"
