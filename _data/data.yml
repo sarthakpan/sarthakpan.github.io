@@ -143,7 +143,7 @@ experiences:
         
 projects:
     title: Automatic Minutes Generation
-    intro: >
+    intro: |
       - Automatic Generation of Minutes of Meeting from a meeting transcript
       - Project is a part of shared task "Automin"
       - Rule-Based processing and NLP tools are used in this project to complete the objective of tasks
