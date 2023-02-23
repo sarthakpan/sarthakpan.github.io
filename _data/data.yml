@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: sarthakpan@gmail.com
-    phone: 
+    phone:
     website:  #do not add http://
     linkedin: sarthakpan
     github: sarthakpan
@@ -49,6 +49,7 @@ career-profile:
     title: Career Profile
     summary: |
       -	Highly ambitious to achieve goals with dedication and confident
+      - My USP is I don't depend on language, I only know concept and logic, language I can learn while development
       -	Presentation Designing & Exceptional presentation skills
       -	Ability to cope up with different situations smartly and calmly
       -	Deep understanding regarding software development environments and considerable talent in achieving critical solutions
@@ -85,7 +86,7 @@ education:
       university: Tagore Academy (ISC)
       time: 2013 - 2015
       Score: 78.2%
-      details: |  
+      details: |
         Subject Highlights:
           - English
           - Mathematics
@@ -112,7 +113,19 @@ experiences:
       company: Tata Consultancy Service
       location: Kolkata, India
       details: |
-        - Portal Development with AppSheet
+        - Portal Development with AppSheet (No Code Low Code Platform)
+        - Full Stack Portal Development for greenhouse gas emission calculator using Angular, SpringBoot, Mongodb, deployed on GCP AppEngine & VM
+        - Full Stack Portal Development for Human Resource Onboarding Management using Python Flask, Mongodb
+        - Full Stack Portal Development for Units Client Onboarding Process using Angular, SpringBoot, Mongodb, Python (for excel upload)
+        - POC on GCP AutoML, Document AI to read custom forms
+        - VbScripts to automate excel processing (Merge, Split, Segregate, Consolidation)
+    - role: Freelance Developer
+      time: November, 2020 - June,2021
+      company: Multiple
+      location: Kolkata, India
+      details: |
+        - Doctors appointment app with online content for Patient on doctors recomendation/subcription using ReactNative, Google Firestore, Expo
+        - Employee management portal using Angular, Google Firestore, Google Firebase Hosting
     - role: Intern Developer
       time: January,2020 - November,2020
       company: GnosisLab
@@ -140,7 +153,7 @@ experiences:
         - Video Voice-Over
         - Exercise of Course
         - Course Study Material
-        
+
 projects:
     title: Automatic Minutes Generation
     intro: >
@@ -152,17 +165,17 @@ projects:
         # link: "#hook"
         # tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-# publications:
-    # title: Publications
-    # intro: |
-      # You can list your publications in this section. Lorem ipsum dolor sit
-      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      # bibendum fringilla a eu lectus.
-    # papers:
-      # - title: The Art of Computer Programming
-        # link: "#"
-        # authors: Donald E. Knuth
-        # conference: Addison-Wesley, 1968
+publications:
+    title: Publications
+    intro: >
+      Automatic Generation of Minutes of Meeting from a meeting transcript.
+      This Project is a part of shared task "Automin".
+      Rule-Based processing and NLP tools are used in this project to complete the objective of tasks
+    papers:
+      - title: AutoMin 2021, MoM Generation from Multiparty Meeting Transcript
+        link: "https://www.isca-speech.org/archive/automin_2021/pan21_automin.html"
+        authors: Pan, S., Nandi, P., Das, D.
+        conference: AutoMin, 2021
 
 skills:
     title: Skills &amp; Proficiency
@@ -173,7 +186,7 @@ skills:
 
       - name: Machine Learning & Deep Learning
         level: 70%
-        
+
       - name: Image Processing
         level: 55%
 
@@ -191,18 +204,18 @@ skills:
 
       - name: Cyber Security
         level: 70%
-        
+
       - name: Creative
         level: 70%
-      
+
       - name: Team Work
         level: 80%
-        
+
       - name: Leadership
         level: 70%
-        
+
       - name: Communication
         level: 85%
-        
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by Sarthak Pan</a>
